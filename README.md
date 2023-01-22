@@ -6,6 +6,6 @@ In env file the three imporant things
 2 - JWT_Secret_Key
 3 - PORTNUMBER
 
-#start
+# start -
 npm install
 npm run start
